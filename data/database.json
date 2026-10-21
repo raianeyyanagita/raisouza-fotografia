@@ -1,0 +1,212 @@
+{
+  "settings": {
+    "whatsapp": "5531995905082",
+    "whatsappDisplay": "(31) 99590-5082",
+    "instagram": "raisouza_fotografiadeparto",
+    "instagramUrl": "https://www.instagram.com/raisouza_fotografiadeparto?srtk=bnN2eXN3ZTdpNGR0&utm_source=qr",
+    "location": "Bairro Tupi — Belo Horizonte, MG",
+    "bioQuote": "Meu nome é Ráimes, sou mãe e fotógrafa. Sou apaixonada pela maternidade, me formei e trabalhei como doula por 8 anos. Mas sempre senti que tinha um chamado especial na fotografia, para registrar esse momento único que é a gestação e nascimento.",
+    "ensaiosNote1": "Até duas trocas de roupas, figurino próprio ou do nosso acervo.",
+    "ensaiosNote2": "Fotos entregues em até 10 dias úteis via link online.",
+    "ensaiosNote3": "Até 6 pessoas e animaizinhos são sempre bem-vindos!",
+    "paymentPixVista": "10% de desconto especial",
+    "paymentPixParcelado": "em até 5 vezes",
+    "paymentCartao": "parcelamento com juros do App",
+    "taxaNeocenter": "R$ 40,00",
+    "taxaVilaDaSerra": "R$ 181,00"
+  },
+  "ensaios": [
+    {
+      "id": "ensaio-estudio",
+      "badge": "Estúdio • Bairro Tupi",
+      "title": "Ensaio Gestante Estúdio",
+      "price": "480,00",
+      "description": "20 fotos editadas e entregues via link. Até 2 trocas de roupas (figurino próprio ou do nosso acervo) e participação de até 6 pessoas + pets.",
+      "buttonText": "Reservar Estúdio"
+    },
+    {
+      "id": "ensaio-externo",
+      "badge": "Ao Ar Livre",
+      "title": "Ensaio Gestante Externo",
+      "price": "580,00",
+      "description": "20 fotos editadas e entregues via link. Conexão com a natureza, até 2 trocas de looks (acervo disponível) e até 6 pessoas + pets.",
+      "buttonText": "Reservar Externo"
+    },
+    {
+      "id": "ensaio-lifestyle",
+      "badge": "No Seu Lar",
+      "title": "Ensaio Lifestyle",
+      "price": "650,00",
+      "description": "20 fotos editadas e entregues via link. Registra a espera de maneira natural no aconchego da sua casa, com os detalhes que só o seu lar conta.",
+      "buttonText": "Reservar Lifestyle"
+    },
+    {
+      "id": "ensaio-lifestyle-baby",
+      "badge": "Primeiros Dias",
+      "title": "Lifestyle Baby",
+      "price": "650,00",
+      "description": "20 fotos editadas e entregues via link. Um registro afetivo dos primeiros dias do seu bebê em casa e dos detalhes que só a fotografia guarda.",
+      "buttonText": "Reservar Lifestyle Baby"
+    }
+  ],
+  "planosParto": [
+    {
+      "id": "plano-bronze",
+      "badge": "Plano Bronze",
+      "title": "Foto de Parto",
+      "price": "1.200,00",
+      "description": "Cobertura fotográfica completa do nascimento com olhar sensível e respeitoso em todas as etapas desse dia especial.",
+      "featured": false,
+      "buttonText": "Escolher Plano Bronze"
+    },
+    {
+      "id": "plano-prata",
+      "badge": "Plano Prata",
+      "title": "Foto e Vídeo de Parto",
+      "price": "1.600,00",
+      "description": "Fotografia + Filme emocionante do parto para reviver cada som, olhar e emoção do primeiro encontro com o seu bebê.",
+      "featured": false,
+      "buttonText": "Escolher Plano Prata"
+    },
+    {
+      "id": "plano-ouro",
+      "badge": "Plano Ouro • Mais Procurado",
+      "title": "Gestante + Parto Foto & Vídeo",
+      "price": "2.000,00",
+      "description": "Ensaio Gestante ou Lifestyle + Foto e Vídeo de Parto. A narrativa completa da doce espera até o nascimento.",
+      "featured": true,
+      "buttonText": "Escolher Plano Ouro"
+    },
+    {
+      "id": "plano-diamante",
+      "badge": "Plano Diamante • Experiência Completa",
+      "title": "Gestante + Parto + Lifestyle Baby",
+      "price": "2.400,00",
+      "description": "Ensaio Gestante ou Lifestyle + Foto e Vídeo de Parto + Lifestyle Baby (primeiros dias do bebê).",
+      "featured": false,
+      "buttonText": "Escolher Plano Diamante"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "foto-1",
+      "src": "assets/img/pdf_img_25.jpg",
+      "category": "parto",
+      "tag": "Fotografia de Parto",
+      "title": "O Primeiro Olhar — Cheguei!",
+      "size": "normal"
+    },
+    {
+      "id": "foto-2",
+      "src": "assets/img/pdf_img_10.jpg",
+      "category": "gestante",
+      "tag": "Estúdio no Tupi (BH)",
+      "title": "Leveza e Movimento na Espera",
+      "size": "tall"
+    },
+    {
+      "id": "foto-3",
+      "src": "assets/img/pdf_img_15.jpg",
+      "category": "parto",
+      "tag": "Cheguei!!!",
+      "title": "O Encontro Mais Esperado",
+      "size": "normal"
+    },
+    {
+      "id": "foto-4",
+      "src": "assets/img/parto-nascimento.jpg",
+      "category": "parto",
+      "tag": "Sala de Parto",
+      "title": "O Milagre da Vida",
+      "size": "tall"
+    },
+    {
+      "id": "foto-5",
+      "src": "assets/img/pdf_img_9.jpg",
+      "category": "gestante",
+      "tag": "Ensaio Externo",
+      "title": "Doce Espera na Natureza",
+      "size": "normal"
+    },
+    {
+      "id": "foto-6",
+      "src": "assets/img/pdf_img_19.jpg",
+      "category": "baby",
+      "tag": "Meus Primeiros Dias",
+      "title": "Lifestyle Baby — Colo de Mãe",
+      "size": "tall"
+    },
+    {
+      "id": "foto-7",
+      "src": "assets/img/pdf_img_4.jpg",
+      "category": "lifestyle",
+      "tag": "Ensaio Lifestyle em Casa",
+      "title": "O Amor no Aconchego do Lar",
+      "size": "normal"
+    },
+    {
+      "id": "foto-8",
+      "src": "assets/img/pdf_img_6.jpg",
+      "category": "parto",
+      "tag": "Estou Chegando...",
+      "title": "Força, Apoio e Respeito",
+      "size": "normal"
+    },
+    {
+      "id": "foto-9",
+      "src": "assets/img/pdf_img_1.jpg",
+      "category": "lifestyle",
+      "tag": "Pets São Bem-Vindos",
+      "title": "A Família Completa na Espera",
+      "size": "normal"
+    },
+    {
+      "id": "foto-10",
+      "src": "assets/img/pdf_img_2.jpg",
+      "category": "gestante",
+      "tag": "A Família (Até 6 Pessoas)",
+      "title": "Irmã Mais Velha & Sapatinhos",
+      "size": "normal"
+    },
+    {
+      "id": "foto-11",
+      "src": "assets/img/pdf_img_11.jpg",
+      "category": "parto",
+      "tag": "Emoção no Nascimento",
+      "title": "Amparo e Cumplicidade",
+      "size": "normal"
+    },
+    {
+      "id": "foto-12",
+      "src": "assets/img/pdf_img_17.jpg",
+      "category": "baby",
+      "tag": "Lifestyle Baby",
+      "title": "Detalhes que Só a Fotografia Guarda",
+      "size": "normal"
+    },
+    {
+      "id": "foto-13",
+      "src": "assets/img/pdf_img_16.jpg",
+      "category": "parto",
+      "tag": "Toda Via Merece Essa Emoção",
+      "title": "O Primeiro Choro",
+      "size": "normal"
+    },
+    {
+      "id": "foto-14",
+      "src": "assets/img/pdf_img_18.jpg",
+      "category": "baby",
+      "tag": "Meus Primeiros Dias",
+      "title": "Delicadeza nos Primeiros Dias",
+      "size": "normal"
+    },
+    {
+      "id": "foto-15",
+      "src": "assets/img/gestante-luz-cirurgica-pb.jpg",
+      "category": "parto",
+      "tag": "Arte em P&B",
+      "title": "Segundos Antes de Nascer",
+      "size": "normal"
+    }
+  ]
+}
